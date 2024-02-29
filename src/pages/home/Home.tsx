@@ -1,5 +1,5 @@
 import './Home.css';
-import img from '../../assets/img/66b4a74e-987c-49f3-b006-475c01a66c1d.png'
+import img from '../../assets/img/home.png'
 
 function Home() {
     return (
@@ -15,8 +15,7 @@ function Home() {
               </div>
             </div>
           </div>
-        </div>
-      
+        </div>      
       </>
     );
 }
